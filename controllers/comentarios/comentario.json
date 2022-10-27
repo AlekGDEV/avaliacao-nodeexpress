@@ -1,0 +1,142 @@
+[
+    {
+        "id": "1",
+        "comentario": "Não gostei",
+        "nomeDoAutor":"Xuxa",
+        "produtoId": "3",
+        "date": "03/10/2022"
+    },
+    {
+        "id": "2",
+        "comentario": "Achei ótimo",
+        "nomeDoAutor":"Pelé",
+        "produtoId": "2",
+        "date": "03/10/2012"
+    },
+    {
+        "id": "3",
+        "comentario": "Pense num bicho caro!",
+        "nomeDoAutor":"Roberto Carlos",
+        "produtoId": "1",
+        "date": "03/10/2022"
+    },
+    {
+        "id": "4",
+        "comentario": "Foi caro, mas foi bom!",
+        "nomeDoAutor":"Tiririca",
+        "produtoId": "1",
+        "date": "05/10/2022"
+    },
+    {
+        "id": "5",
+        "comentario": "Muito confortável",
+        "nomeDoAutor":"Sofia Manzano",
+        "produtoId": "3",
+        "date": "05/10/2022"
+    },
+    {
+        "id": "6",
+        "comentario": "Um tênis como qualquer outro.",
+        "nomeDoAutor":"Cachorro e Chuchu",
+        "produtoId": "2",
+        "date": "05/10/2022"
+    },
+    {
+        "id": "7",
+        "comentario": "Me deu calos!.",
+        "nomeDoAutor":"Gaguinha de Ilhéus ",
+        "produtoId": "4",
+        "date": "06/10/2022"
+    },
+    {
+        "id": "8",
+        "comentario": "Foi o melhor que já comprei!.",
+        "nomeDoAutor":"Chuck Norris",
+        "produtoId": "5",
+        "date": "06/10/2022"
+    },
+    {
+        "id": "9",
+        "comentario": "Achei uma bo$#@!.",
+        "nomeDoAutor":"Paulo Maluf",
+        "produtoId": "5",
+        "date": "06/10/2022"
+    },
+    {
+        "id": "10",
+        "comentario": "Viva a Nike!.",
+        "nomeDoAutor":"Chico Anysio",
+        "produtoId": "5",
+        "date": "06/10/2022"
+    },
+    {
+        "id": "11",
+        "comentario": "Não gostei",
+        "nomeDoAutor":"Genival Lacerda",
+        "produtoId": "5",
+        "date": "12/10/2022"
+    },
+    {
+        "id": "12",
+        "comentario": "Achei ótimo",
+        "nomeDoAutor":"Vladimir Putin",
+        "produtoId": "6",
+        "date": "12/10/2022"
+    },
+    {
+        "id": "13",
+        "comentario": "Pense num bicho caro!",
+        "nomeDoAutor":"Jesus Programador",
+        "produtoId": "6",
+        "date": "17/10/2022"
+    },
+    {
+        "id": "14",
+        "comentario": "Foi caro, mas foi bom!",
+        "nomeDoAutor":"Padre Kelmon",
+        "produtoId": "7",
+        "date": "17/10/2022"
+    },
+    {
+        "id": "15",
+        "comentario": "Muito confortável",
+        "nomeDoAutor":"Willian Gates",
+        "produtoId": "9",
+        "date": "19/10/2022"
+    },
+    {
+        "id": "16",
+        "comentario": "Um tênis como qualquer outro.",
+        "nomeDoAutor":"Adamastor Pitaco",
+        "produtoId": "10",
+        "date": "20/10/2022"
+    },
+    {
+        "id": "17",
+        "comentario": "Me deu calos!.",
+        "nomeDoAutor":"Frida Khalo",
+        "produtoId": "8",
+        "date": "20/10/2022"
+    },
+    {
+        "id": "18",
+        "comentario": "Foi o melhor que já comprei!.",
+        "nomeDoAutor":"Rossiclea",
+        "produtoId": "7",
+        "date": "26/10/2022"
+    },
+    {
+        "id": "19",
+        "comentario": "Achei uma bo$#@!.",
+        "nomeDoAutor":"Roberto Jefferson",
+        "produtoId": "7",
+        "date": "26/10/2022"
+    },
+    {
+        "id": "20",
+        "comentario": "Viva a Nike!.",
+        "nomeDoAutor":"Bob Esponja",
+        "produtoId": "10",
+        "date": "26/10/2022"
+    }
+]
