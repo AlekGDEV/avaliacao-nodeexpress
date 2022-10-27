@@ -15,6 +15,7 @@ app.use(express.json())
 
 app.use('/', produtoRota)
 app.use('/', carrinhoRota)
+app.use('/', comentarioRouter)
 
 
 
