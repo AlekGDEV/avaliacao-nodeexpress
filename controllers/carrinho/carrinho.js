@@ -5,3 +5,11 @@ let listaCarrinho = [{"id":1,"produto":'xeroverde',"quantidade":3,},
 {"id":5,"produto":'batata frita',"quantidade":3,},
 {"id":6,"produto":'puré',"quantidade":3,},
 {"id":7,"produto":'suco de mangá',"quantidade":3,},]
+
+function buscarCarrinhoDoUsuario (){
+    return listaCarrinho;
+};
+
+module.exports = {
+    buscarCarrinhoDoUsuario,
+}
