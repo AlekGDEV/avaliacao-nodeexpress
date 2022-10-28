@@ -4,7 +4,7 @@ const controller = require('./carrinho');
 router.post('/carrinho', (req, res) => {
     
     res.send(
-        controller.addCarrinho(req.body)
+        controller.buscarCarrinhoDoUsuario(req.body)
     )
 })
 module.exports = router;
