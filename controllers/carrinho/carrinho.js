@@ -1,22 +1,7 @@
-const fs = require('fs');
-
-let carrinho = JSON.parse(fs.readFileSync(__dirname + "/carrinho.json"));
-
-function addCarrinho(dados) {
-
-    let identificadores = carrinho.map(item => item.id);
-    let novoId = Math.max(...identificadores) + 1;
-
-    let novoItem = {
-        id: novoId,
-        produto: dados.produto,
-        quantidade: dados.quantidade,
-    }
-    carrinho.push(novoItem);
-    fs.writeFileSync(__dirname + '/carrinho.json', JSON.stringify(carrinho));
-    return novoItem;
-}
-
-module.exports = {
-    addCarrinho
-}
+let listaCarrinho = [{"id":1,"produto":'xeroverde',"quantidade":3,},
+{"id":2,"produto":'arroz',"quantidade":3,},
+{"id":3,"produto":'feijao mulatim',"quantidade":3,},
+{"id":4,"produto":'carne cozida',"quantidade":3,},
+{"id":5,"produto":'batata frita',"quantidade":3,},
+{"id":6,"produto":'puré',"quantidade":3,},
+{"id":7,"produto":'suco de mangá',"quantidade":3,},]
