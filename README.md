@@ -1,6 +1,6 @@
 # avaliacao-nodeexpress
 
-COMENTARIOS:
+Endpoint COMENTARIOS:
 
 *arquivo 'comentario.json':
 **comentarios cadastrados
