@@ -7,4 +7,9 @@ router.post('/carrinho', (req, res) => {
         controller.addCarrinho(req.body)
     )
 })
+
+router.put('/carrinho/:id', (req, res) => {
+    res.send(controller.editarItemCarrinho(req.body));
+    });
+    
 module.exports = router;
