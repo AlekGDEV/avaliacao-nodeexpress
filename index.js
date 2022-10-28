@@ -5,6 +5,7 @@ const port = 8001
 const produtoRota = require("./controllers/produto/router.js")
 const carrinhoRota = require('./controllers/carrinho/router.js');
 const comentarioRouter = require("./controllers/comentario/router.js");
+const usuarioRouter = require("./controllers/usuario/router.js");
 
 
 app.get('/', (req, res) => {
@@ -16,6 +17,7 @@ app.use(express.json())
 app.use('/', produtoRota)
 app.use('/', carrinhoRota)
 app.use('/', comentarioRouter)
+app.use('/', usuarioRouter)
 
 
 
