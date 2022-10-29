@@ -4,7 +4,8 @@ const port = 8001
 
 const produtoRota = require("./controllers/produto/router.js")
 const carrinhoRota = require('./controllers/carrinho/router.js');
-const comentarioRouter = require("./controllers/comentario/router.js");
+const comentarioRouter = require("./controllers/comentarios/router.js");
+const usuarioRouter = require('./controllers/usuario/router.js');
 
 
 app.get('/', (req, res) => {
