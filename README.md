@@ -30,10 +30,9 @@ PUT: para editar algum produto do carrinho do usuário<br>
 GET: para listar comentários de um produtos expecifico
 **filtrar os comentarios pelo id do produto na URL: http://localhost:8001/comentario/:id
 
-
-
- /produto
-  e /promocao)
+ /produtos e /promocoes
+ GET: Para buscar lista com todos os produtos disponíveis no e-commerce.<br>
+ GET: Para buscar os produtos com desconto (os produtos com desconto são os ultimos dois da lista normal).
 
 **produtos cadastrados com id de 1 a 10
 
