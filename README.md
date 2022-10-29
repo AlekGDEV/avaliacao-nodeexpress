@@ -32,7 +32,7 @@ GET: para listar comentários de um produtos expecifico
 
  /produtos e /promocoes<br>
  GET: Para buscar lista com todos os produtos disponíveis no e-commerce.<br>
- GET: Para buscar os produtos com desconto (os produtos com desconto são os ultimos dois da lista normal).
+ GET: Para buscar os produtos com desconto (os produtos com desconto são os últimos dois da lista normal).
 
 **produtos cadastrados com id de 1 a 10
 
