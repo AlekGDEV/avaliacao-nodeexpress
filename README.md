@@ -19,18 +19,18 @@
 
 - use o link http://localhost:8001 
 
-/carrinho:
+/carrinho:<br>
 GET: para buscar a lista de produtos do carrinho do usuário<br>
-POST: para adicionar um intem no carrinho do usuário
+POST: para adicionar um item no carrinho do usuário
 /carrinho/:id do produto<br>
 PUT: para editar algum produto do carrinho do usuário<br>
 **ao enviar a requisicao utilizar o numero do id na URL: http://localhost:8001/carrinho/:id<br>
 
-/comentario/:id do produto:
+/comentario/:id do produto:<br>
 GET: para listar comentários de um produtos expecifico
 **filtrar os comentarios pelo id do produto na URL: http://localhost:8001/comentario/:id
 
- /produtos e /promocoes
+ /produtos e /promocoes<br>
  GET: Para buscar lista com todos os produtos disponíveis no e-commerce.<br>
  GET: Para buscar os produtos com desconto (os produtos com desconto são os ultimos dois da lista normal).
 
