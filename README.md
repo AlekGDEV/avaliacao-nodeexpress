@@ -20,11 +20,11 @@
 - use o link http://localhost:8001 
 
 /carrinho:
-GET: para buscar a lista de produtos do carrinho do usuário
+GET: para buscar a lista de produtos do carrinho do usuário<br>
 POST: para adicionar um intem no carrinho do usuário
-/carrinho/:id do produto
-PUT: para editar algum produto do carrinho do usuário
-**ao enviar a requisicao utilizar o numero do id na URL: http://localhost:8001/carrinho/:id
+/carrinho/:id do produto<br>
+PUT: para editar algum produto do carrinho do usuário<br>
+**ao enviar a requisicao utilizar o numero do id na URL: http://localhost:8001/carrinho/:id<br>
 
 /comentario/:id do produto:
 GET: para listar comentários de um produtos expecifico
