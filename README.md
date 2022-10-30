@@ -36,6 +36,13 @@ GET: para listar comentários de um produtos expecifico
 
 **produtos cadastrados com id de 1 a 10
 
-
+/usuarios
+GET: Para listar todos os usuários.
+/usuarios/id
+GET: Para listar os dados do usuário correspondente ao id.
+/login
+POST: Para logar (com email e senha) o usuário e retornar o token para ser usado no header authorization do /me.
+/me
+GET: Para listar os dados do usuário logado.
 
 
