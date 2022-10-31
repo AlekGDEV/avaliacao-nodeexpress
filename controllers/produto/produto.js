@@ -17,5 +17,6 @@ function listarPromo() {
 }
 
 module.exports = {
+  listar,
   listPromo: listarPromo,
 };

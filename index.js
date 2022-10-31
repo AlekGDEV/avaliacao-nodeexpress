@@ -8,6 +8,7 @@ const comentarioRouter = require("./controllers/comentarios/router.js");
 const usuarioRouter = require('./controllers/usuario/router.js');
 
 
+
 app.get('/', (req, res) => {
   res.send('A documentação da api')
 })
@@ -18,6 +19,7 @@ app.use('/', produtoRota)
 app.use('/', carrinhoRota)
 app.use('/', comentarioRouter)
 app.use('/', usuarioRouter)
+
 
 
 

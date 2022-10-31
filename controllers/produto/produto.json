@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1,
+        "nome": "Air Jordan",
+        "valor": 2000,
+        "categoria": "tênis",
+        "tamanho": "40"
+    },
+    {
+        "id": 2,
+        "nome": "Air Max",
+        "valor": 1500,
+        "categoria": "tênis",
+        "tamanho": "42"
+    },
+    {
+        "id": 3,
+        "nome": "Air Force",
+        "valor": 1500,
+        "categoria": "tênis",
+        "tamanho": "40"
+    },
+    {
+        "id": 4,
+        "nome": "Calça Nike Dri-FIT",
+        "valor": 170,
+        "categoria": "calças",
+        "tamanho": "M"
+    },
+    {
+        "id": 5,
+        "nome": "Calça Nike Run Stripe",
+        "valor": 150,
+        "categoria": "calças",
+        "tamanho": "M"
+    },
+    {
+        "id": 6,
+        "nome": "Camisa Los Angeles Lakers",
+        "valor": 190,
+        "categoria": "camiseta",
+        "tamanho": "G"
+    },
+    {
+        "id": 7,
+        "nome": "Camiseta Jordan 23",
+        "valor": 330,
+        "categoria": "G",
+        "tamanho": "oi"
+    },
+    {
+        "id": 8,
+        "nome": "JBL, Tune 510BT",
+        "valor": 251,
+        "categoria": "HeadPhone"
+    },
+    {
+        "id": 9,
+        "nome": "Nike SB Dunk Low",
+        "valor": 1500,
+        "categoria": "tênis",
+        "tamanho": "39"
+    },
+    {
+        "id": 10,
+        "nome": "Nike Air",
+        "valor": 1800,
+        "categoria": "tênis",
+        "tamanho": "40"
+    }
+]
