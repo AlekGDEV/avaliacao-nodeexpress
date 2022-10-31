@@ -11,7 +11,7 @@
 - Node.JS: https://nodejs.org/en/download/
 - Insonmia: https://insomnia.rest/download
 
-### 2. EXECULTANDO O PROJETO
+### 2. EXECUTANDO O PROJETO
 - clone o repositório em alguma pasta usando o comando: git clone + a url desse repositório.
 - Abra o teminal e instale as dependências usando o comando: npm install
 - Abra o Terminal do VsCode e use o comando: npm start, para iniciar o projeto.
@@ -52,7 +52,7 @@ GET: Para listar os dados do usuário logado.
 ### 4. DEVS RESPONSÁVEIS PELA A APLIACAÇÃO
 Essa aplicação foi desenvolvida por 8 desenvolvedores. Cada um ficou encarregado de desnsenvolver um dos endepoints, sendo eles:
 - Alexandre Garcia: www.linkedin.com/in/alexandregdev
-- Alicia Catherine: 
+- Alicia Catherine: https://www.linkedin.com/in/alicia-alencar
 - Camylla Araújo: https://www.linkedin.com/in/camyllaaraujo
 - Davi:
 - Erika Nunes: https://www.linkedin.com/in/deverikanunes
