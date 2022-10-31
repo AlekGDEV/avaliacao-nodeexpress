@@ -53,7 +53,7 @@ GET: Para listar os dados do usuário logado.
 Essa aplicação foi desenvolvida por 8 desenvolvedores. Cada um ficou encarregado de desnsenvolver um dos endepoints, sendo eles:
 - Alexandre Garcia: www.linkedin.com/in/alexandregdev
 - Alicia Catherine: 
-- Camylla:
+- Camylla Araújo: https://www.linkedin.com/in/camyllaaraujo
 - Davi:
 - Erika Nunes: https://www.linkedin.com/in/deverikanunes
 - Igor Oliveira: https://www.linkedin.com/in/devigoroliveira
