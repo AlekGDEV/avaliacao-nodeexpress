@@ -1,4 +1,8 @@
 # AVALIAÇÃO NODE-EXPRESS
+### O QUE É E O QUE FAZ?
+  Esse projeto é uma atividade de conclusão do módulo Express do curso de Fullstack na Escola de Habilidades Digitais, Digital college.
+  Ele consome uma API cujo os dados são salvos em memória.
+
 ## TUTORIAL PARA FAZER FUNCIONAR
 
 ### 1. LISTA DE SOFTWARE NESCESSARIOS 
@@ -44,5 +48,17 @@ GET: Para listar os dados do usuário correspondente ao id.<br>
 POST: Para logar (com email e senha) o usuário e retornar o token para ser usado no header authorization do /me.<br>
 /me<br>
 GET: Para listar os dados do usuário logado.
+
+### 5. DEVS RESPONSÁVEIS PELA A APLIACAÇÃO
+Essa aplicação foi desenvolvida por 8 desenvolvedores. Cada um ficou encarregado de desnsenvolver um dos endepoints, sendo eles:
+Alexandre Garcia: www.linkedin.com/in/alexandregdev
+Alicia Catherine: 
+Camylla:
+Davi:
+Erika Nunes: https://www.linkedin.com/in/deverikanunes
+Igor Oliveira: https://www.linkedin.com/in/devigoroliveira
+Italo Levi: https://www.linkedin.com/in/italo-levi
+Talyson Soares: https://www.linkedin.com/in/talysonsoares
+
 
 
