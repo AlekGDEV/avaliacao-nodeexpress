@@ -11,7 +11,7 @@
 - Node.JS: https://nodejs.org/en/download/
 - Insonmia: https://insomnia.rest/download
 
-### 3. EXECULTANDO O PROJETO
+### 2. EXECULTANDO O PROJETO
 - clone o repositório em alguma pasta usando o comando: git clone + a url desse repositório.
 - Abra o teminal e instale as dependências usando o comando: npm install
 - Abra o Terminal do VsCode e use o comando: npm start, para iniciar o projeto.
@@ -19,7 +19,7 @@
 - inicie o insonmia e importe o Arquivo Insonmia(insonmia_ projeto)
 
 
-### 4. ROTAS PARA TESTE DE API
+### 3. ROTAS PARA TESTE DE API
 
 - use o link http://localhost:8001 
 
@@ -49,7 +49,7 @@ POST: Para logar (com email e senha) o usuário e retornar o token para ser usad
 /me<br>
 GET: Para listar os dados do usuário logado.
 
-### 5. DEVS RESPONSÁVEIS PELA A APLIACAÇÃO
+### 4. DEVS RESPONSÁVEIS PELA A APLIACAÇÃO
 Essa aplicação foi desenvolvida por 8 desenvolvedores. Cada um ficou encarregado de desnsenvolver um dos endepoints, sendo eles:
 - Alexandre Garcia: www.linkedin.com/in/alexandregdev
 - Alicia Catherine: 
